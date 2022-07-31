@@ -7,3 +7,5 @@ https://leolinn.com/6-resources-of-apple-swift
 ## Official Sprite learning resource
 https://developer.apple.com/documentation/spritekit/skscene?language=objc
 
+## git learning resource
+https://git-scm.com/book/en/v2
